@@ -1,0 +1,37 @@
+<!Doctype html> 
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description"  content="Travel to beautiful Destinations with our travel packages.">
+    <title>Country Road Travels</title>
+  </head>
+  <body>
+    <h1>Explore Italy</h1>
+    <p>
+      Explore Italy and discover beautiful landscapes, serene beaches, romantic sunsets and a lively night life. 
+    </p>
+    <h2>
+    Packages
+    </h2>
+    <p>
+    We have different packages below to suit your needs.  🏖️
+    </p>
+    <ul>
+      <li><a target="_blank" href="https://www.freecodecamp.org/learn"> Group Travels</a></li>
+      <li><a target="_blank" href="https://www.freecodecamp.org/learn">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="image of South Island. "/></a>
+      <figcaption>South Islands</figcaption>
+    </figure>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="image of Centre Rome and Italy."/></a>
+      <figcaption>Rome and Center Italy</figcaption>
+    </figure>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="image of Italy National Park."/></a>
+      <figcaption>Italy National Park</figcaption>
+    </figure>
+  </body>
+  </html>
